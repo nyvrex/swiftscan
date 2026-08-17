@@ -23,8 +23,8 @@ Projeto criado para fins de estudo e prática de redes/segurança ofensiva.
 ## 📦 Instalação
 
 ```bash
-git clone https://github.com/nyvrex/port-scanner.git
-cd port-scanner
+git clone https://github.com/nyvrex/swiftscan.git
+cd swiftscan
 ```
 
 Não há dependências externas — usa apenas a biblioteca padrão do Python 3.
